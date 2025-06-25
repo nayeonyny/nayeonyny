@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James Ivan Matienzo</h1>
+<h1 align="center">Hi, I'm James Ivan Matienzo</h1>
 <h3 align="center">Computer Science Student aiming to be stable one day</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayeonyny&label=Profile%20views&color=0e75b6&style=flat" alt="nayeonyny" /> </p>
